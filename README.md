@@ -1,2 +1,2 @@
 # My Blog
-blog.xstarseed.com
+Go to My Blog [here](https://blog.xstarseed.com)
